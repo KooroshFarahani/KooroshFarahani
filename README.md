@@ -13,8 +13,8 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?color=ec407a&style=flat&logo=github" alt="تعداد فالوورها">
-  <img src="https://img.shields.io/github/stars/your-username/your-username?color=4CAF50&style=flat&logo=github" alt="ستاره‌ها">
+  <img src="https://img.shields.io/github/followers/KooroshFarahani?color=ec407a&style=flat&logo=github" alt="تعداد فالوورها">
+  <img src="https://img.shields.io/github/stars/KooroshFarahani/KooroshFarahani?color=4CAF50&style=flat&logo=github" alt="ستاره‌ها">
   <img src="https://img.shields.io/badge/-Open%20for%20Collaboration-gold?style=flat&logo=git&logoColor=white" alt="باز برای همکاری">
 </p>
 
@@ -47,9 +47,7 @@
 
 ---
 
-## 🤝 با من همکاری کن
 
-اگر می‌خوای روی یه پروژه جالب کار کنیم، یا فقط می‌خوای یه سلام بزنی:
 
 - 📧 **ایمیل**: [kooroshesfinifarahani1377@gmail.com](kooroshesfinifarahani1377@gmail.com@gmail.com)
 
