@@ -51,7 +51,7 @@
 
 - 📧 **ایمیل**: [kooroshesfinifarahani1377@gmail.com](kooroshesfinifarahani1377@gmail.com@gmail.com)
 
-- 💼 **لینکدین**: [/in/you](https://linkedin.com/in/koorosh-farahani)
+- 💼 **لینکدین**: [koorosh-farahani](https://linkedin.com/in/koorosh-farahani)
 
 
 ---
